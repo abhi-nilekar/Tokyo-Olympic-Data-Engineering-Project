@@ -1,4 +1,6 @@
 # Tokyo-Olympic-Data-Engineering-Project
+### Project Architecture : 
+![image](https://github.com/abhi-nilekar/Tokyo-Olympic-Data-Engineering-Project/assets/24265534/43f8c5e1-de4d-4be3-8445-3328cb852df3)
 
 
 1. **Data Integration**: In the first stage of the project, I integrated data from various sources using Azure Data Factory. This tool allowed me to create data-driven workflows for orchestrating and automating data movement and data transformation.
